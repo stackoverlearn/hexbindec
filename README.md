@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hexbindec, also known as James Attard
+- 👋 Hi, I’m @hexbindec, but humans know me as James
 - ⚡ I am a warranted engineer (hence you see me sign with 'Ing.' prefix)
 - 👀 I’m interested in computer science, engineering, startups and education
 - 🌱 I’m a full-time lecturer teaching computer science for BSc. IT degree and Higher Diploma students

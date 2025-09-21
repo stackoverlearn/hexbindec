@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @hexbindec, but humans know me as James
-- ⚡ I am a warranted engineer (hence you see me sign with 'Ing.' prefix)
+- 👋 Hi, I’m @stackoverlearn an electrical and software engineer
+- ⚡ My job is teaching at a college and doing business consultancy
 - 👀 I’m interested in computer science, engineering, startups and education
-- 🌱 I’m a full-time lecturer teaching computer science for BSc. IT degree and Higher Diploma students
+- 🌱 My hobbies are anime, motorcycling, gaming, songwriting and performing live music
 - 💞️ I’m looking to collaborate on EU projects, startups, and business ideas
-- 📫 You can reach me on https://jamesattard.com
-- 😄 Fun fact: I am the singer and lead guitarist of a local rock band
+- 📫 You can reach me on YouTube channel @stackoverlearn
+- 😄 Fun fact: Students often star my repo :)
 
 <!---
 hexbindec/hexbindec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

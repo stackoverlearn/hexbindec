@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @stackoverlearn an electrical and software engineer
-- ⚡ My job is teaching at a college and doing business consultancy
-- 👀 I’m interested in computer science, engineering, startups and education
-- 🌱 My hobbies are anime, motorcycling, gaming, songwriting and performing live music
-- 💞️ I’m looking to collaborate on EU projects, startups, and business ideas
-- 📫 You can reach me on YouTube channel @stackoverlearn
-- 😄 Fun fact: Students often star my repo :)
+- ⚡ My job is lecturing at a CS College and doing business consultancy
+- 👀 Interested in computer science, engineering, startups and education
+- 🌱 Into anime, motorcycling, gaming and live music performances
+- 💞️ Looking to collaborate on EU projects, startups, and business ideas
+- 📫 You can watch my unlisted coding videos on YouTube channel @stackoverlearn
 
 <!---
 hexbindec/hexbindec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

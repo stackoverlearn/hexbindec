@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stackoverlearn an electrical and software engineer
-- ⚡ My job is lecturing at a CS College and doing business consultancy
+- ⚡ My life -> lecturing at a CS College, building awesome apps and doing business consultancy
 - 👀 Interested in computer science, engineering, startups and education
 - 🌱 Into anime, motorcycling, gaming and live music performances
 - 💞️ Looking to collaborate on EU projects, startups, and business ideas
